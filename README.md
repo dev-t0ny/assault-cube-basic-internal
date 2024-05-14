@@ -1,4 +1,4 @@
-# Light-weight Assault Cube internal
+# Lightweight Assault Cube internal
 First time trying c++ game hacking. This is as simple as it gets.
 
 
