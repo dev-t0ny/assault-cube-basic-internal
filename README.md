@@ -11,7 +11,8 @@ Open **.sln** in Visual Studio 2022, set build configuration to Release | x64. P
 ```
 Press 'Insert' after injecting.
 ```
-![image](https://github.com/dev-t0ny/assault-cube-basic-internal/assets/79669121/37d969d7-da8c-4101-a8d7-f46ff9cf62b0)
+![image](https://github.com/dev-t0ny/assault-cube-basic-internal/assets/79669121/bd89fcb1-e542-4c6c-a4d7-4cb86a235e6e)
+
 
 ## Contributing
 
