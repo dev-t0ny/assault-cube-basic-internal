@@ -10,8 +10,11 @@ void processAttach()
             DWORD* playerHealth = (DWORD*)(*playerBase + 0xEC);
             *playerHealth = 9999;        
 
-            DWORD* currentAmmo = (DWORD*)0x00603874;
-            *currentAmmo = 9999;
+            DWORD* playerAmmo = (DWORD*)(*playerBase + 0x140);
+            *playerAmmo = 9999;
+
+            DWORD* playerArmor = (DWORD*)(*playerBase + 0xF0);
+            *playerArmor = 9999;
         }
 
         Sleep(1);
