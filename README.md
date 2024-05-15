@@ -9,6 +9,7 @@ Open **.sln** in Visual Studio 2022, set build configuration to Release | x64. P
 ## Usage
 
 ```
+You will need a .dll injector to make it work. Any is fine.
 Press 'Insert' after injecting.
 ```
 ![image](https://github.com/dev-t0ny/assault-cube-basic-internal/assets/79669121/bd89fcb1-e542-4c6c-a4d7-4cb86a235e6e)
